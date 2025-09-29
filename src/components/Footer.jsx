@@ -224,7 +224,7 @@ const Footer = () => {
                   </div>
                   <div>
                     <p className="text-sm text-gray-500">Phone</p>
-                    <p className="text-white">+1 (555) 123-4567</p>
+                    <p className="text-white">+91 99057 65323</p>
                   </div>
                 </li>
                 <li className="flex items-center space-x-3">
@@ -262,7 +262,7 @@ const Footer = () => {
           <div className="border-t border-gray-800 mt-8 pt-8">
             <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
               <div className="text-gray-400 text-sm">
-                <p>&copy; 2024 IELTSPro Academy. All rights reserved.</p>
+                <p>&copy; 2025 IELTSPro Academy. All rights reserved.</p>
               </div>
               <div className="flex space-x-6 text-sm text-gray-400">
                 <a href="#" className="hover:text-white transition">Privacy Policy</a>
